@@ -1,5 +1,5 @@
 # Praktikum3
-#logika flowchart latihan 3
+# logika flowchart latihan 3
 
 Mulai
 Input
